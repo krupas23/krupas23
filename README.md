@@ -27,7 +27,7 @@ Hey there! I'm **Krupa**, a passionate **Grad student in Computer Science** at S
   She/Her  
 
 - ⚡ **Fun fact**:  
-  I have a knack for finding the best coffee spots wherever I go—espresso is life! ☕  
+  I have a knack for finding the best coffee spots wherever I go, espresso is life! ☕  
 
 --- 
 
