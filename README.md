@@ -1,15 +1,15 @@
-## 🎓 About Me  
-Hi there! 👋 I'm **Krupa**, a passionate **Grad student in Computer Science** at Syracuse University, driven by curiosity, creativity, and the pursuit of innovation in **Machine Learning**, **NLP**, and **Software Development**. Whether you're here to explore, collaborate, or get inspired, you're in the right place! 💻✨  
+## About Me  
+Hey there! I'm **Krupa**, a passionate **Grad student in Computer Science** at Syracuse University, driven by curiosity, creativity, and the pursuit of innovation in **Machine Learning**, **NLP**, and **Software Development**. Whether you're here to explore, collaborate, or get inspired, you're in the right place! 💻✨  
 
 ---
 
-## 🔭 What I'm Up To  
+## What I'm Up To  
 
 - 🔭 **I’m currently working on**:  
   Building AI-powered solutions that combine the power of **deep learning** and **NLP** to analyze human emotions, streamline workflows, and transform raw data into actionable insights.  
 
 - 🌱 **I’m currently learning**:  
-  Advanced deep learning techniques for NLP and Big Data tools like PySpark.  
+  Advanced Big Data tools like PySpark
 
 - 👯 **I’m looking to collaborate on**:  
   Open-source projects in Machine Learning, NLP, or Web Development.  
